@@ -1,0 +1,12 @@
+{
+    "name": "@runkit/carol2707_62c3140b53e75f00089042f0",
+    "version": "0.0.0-master",
+    "main": "./lib/62c3140b53e75f00089042f0",
+    "dependencies": {
+        "core-js": "3.0.1",
+        "belvo": "0.21.1"
+    },
+    "scripts": {
+        "install": "node scripts/install.js"
+    }
+}
